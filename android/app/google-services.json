@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858244453598",
+    "project_id": "courselearningapp-d231f",
+    "storage_bucket": "courselearningapp-d231f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858244453598:android:4e103e34d8b75f03a35e4f",
+        "android_client_info": {
+          "package_name": "com.example.course_material_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858244453598-aea8qni6nvgi4pn3vj9q6n448gsv90ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9FKuQ8fCkDXCIe5XBzK3gWMDtNWWTKnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858244453598-aea8qni6nvgi4pn3vj9q6n448gsv90ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
